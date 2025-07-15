@@ -3,7 +3,7 @@
 SRT is used by [thousands of organizations](https://www.srtalliance.org/members/) globally in a wide range of industry applications, from IP cameras, video encoders and decoders to gateways, OTT platforms and CDNs. SRT has also been adopted by leading industry open source technologies including VLC by VideoLAN, GStreamer, Wireshark, FFmpeg, Libav, and OBS Studio.
 
 ## Sample Applications
-* [srt-live-transmit](https://github.com/Haivision/srt/blob/master/docs/stransmit.md)
+* [srt-live-transmit](https://github.com/Haivision/srt/blob/master/docs/apps/srt-live-transmit.md)
 * [srt-xtransmit](https://github.com/maxsharabayko/srt-xtransmit)
 
 ## Open Source Projects
